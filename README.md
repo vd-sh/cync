@@ -29,7 +29,7 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 ## How to get your own Cync?
 1. Download the source CAD (.step file) from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
-3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](robu.in) or [JLCPCB](jlcpcb.com))
+3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive and go organize your cables!
 
    <img src="Assets/Screenshot-2026-10-12-215043.png" alt="design of cync" width="350">
@@ -40,7 +40,7 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 3. Color- As you like
 4. Infill- (60-90)%
 
-## [BOM](BOM.csv) as a table
+## [BOM](BOM.csv)
 | Item                | Quantity             | Price (USD) | Link    |
 |---------------------|----------------------|-------------|---------|
 | 3D Print (PLA)      | 15 (Individual Cync) | 5.2         | robu.in |
