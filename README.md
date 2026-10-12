@@ -1,8 +1,8 @@
 # cync
-Cync is a simple system of 3d printed accessory to organize your messy cables.
+Cync is a simple 3D-printed accessory to organize your messy cables.
 
 ## What is this?
-Cync is a very basic and simple cable organizer for different sizes of cables i.e. with varied diameter and lengths. Cync is designed to be categorized into three types: Small, Medium and Large. All cable organizers have a holder ring so you can attach a keyring to them for ease of carrying. Cync is designed in Onshape and to be 3D printed with PLA.
+Cync is a very basic and simple cable organizer for different sizes of cables, i.e., with varied diameters and lengths. Cync is designed to be categorized into three types: Small, Medium, and Large. All cable organizers have a holder ring so you can attach a keyring to them for ease of carrying. Cync is designed in Onshape and is to be 3D printed with PLA.
 
 <img src="Assets/Screenshot-2026-10-12-224037.png" alt="design of cync" width="350">
 
@@ -24,7 +24,7 @@ cync/
 ```
 
 ## Live 3d view in Onshape
-Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482af2e9a0b7d37c2154e/e/a0cdcc29b567236020167490) to view cync in Onshape!
+Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482af2e9a0b7d37c2154e/e/a0cdcc29b567236020167490) to view Cync in Onshape!
 
 ## How to get your own Cync?
 1. Download the source CAD (.step file) from the [Hardware](Hardware/) directory
