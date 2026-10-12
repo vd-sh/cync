@@ -14,7 +14,7 @@ cync/
 |
 |---- Assets/-----------# Images and visual references for the project
 |
-|---- Hardware/---------# Source design file for the CAD
+|---- Hardware/---------# Source design files for the CAD
 |
 |---- BOM.csv-----------# Bill of Material
 |
