@@ -6,7 +6,7 @@ Cync is a very basic and simple cable organizer for different sizes of cables, i
 
 <img src="Assets/Screenshot-2026-10-12-224037.png" alt="design of cync" width="350">
 
-<img src="Assets/Screenshot-2026-10-12-215110.png" alt="design of cync" width="350">
+<img src="Assets/Screenshot-2026-10-12-215110.png" alt="sample of cync" width="350">
 
 ## Repository Structure
 ```text
@@ -15,8 +15,6 @@ cync/
 |---- Assets/-----------# Images and visual references for the project
 |
 |---- Hardware/---------# Source design files for the CAD
-|
-|---- BOM.csv-----------# Bill of Material
 |
 |---- LICENSE-----------# MIT License
 |
@@ -32,23 +30,13 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive and go organize your cables!
 
-   <img src="Assets/Screenshot-2026-10-12-215043.png" alt="design of cync" width="350">
+   <img src="Assets/Screenshot-2026-10-12-215043.png" alt="2nd sample of cync" width="350">
 
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
 3. Color- As you like
 4. Infill- (60-90)%
-
-## [BOM](BOM.csv)
-| Item                | Quantity             | Price (USD) | Link    |
-|---------------------|----------------------|-------------|---------|
-| 3D Print (PLA)      | 15 (Individual Cync) | 5.2         | robu.in |
-| Shipping & Handling |                      | 1           |         |
-| Total               |                      | 6.2         |         |
-
-## Cart Image
-<img src="Assets/Screenshot-2026-10-12-230843.png" alt="cart image" width="600">
 
 ## License
 [MIT](LICENSE)- Use, modify, share as you like!
