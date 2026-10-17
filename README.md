@@ -32,6 +32,14 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 
    <img src="Assets/Screenshot-2026-10-12-215043.png" alt="2nd sample of cync" width="350">
 
+## [BOM](BOM.csv) as a table
+| Item          | Description       | Quantity | Price (USD) | Link                             |
+|---------------|-------------------|----------|-------------|----------------------------------|
+| Cync 3D print | PLA (All 3 sizes) | 3        | 1.5         | https://printlegion.hackclub.com |
+| Shipping      |                   |          | 1           |                                  |
+| Total         |                   |          | 2.5         |                                  |
+
+
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
