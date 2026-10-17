@@ -16,6 +16,8 @@ cync/
 |
 |---- Hardware/---------# Source design files for the CAD
 |
+|---- BOM.csv-----------# Bill of materials
+|
 |---- LICENSE-----------# MIT License
 |
 |---- README.md---------# Project documentation and instructions
