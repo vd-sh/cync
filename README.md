@@ -39,7 +39,6 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 | Shipping      |                   |          | 1           |                                  |
 | Total         |                   |          | 2.5         |                                  |
 
-
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
