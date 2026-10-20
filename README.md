@@ -11,16 +11,11 @@ Cync is a very basic and simple cable organizer for different sizes of cables, i
 ## Repository Structure
 ```text
 cync/
-|
-|---- Assets/-----------# Images and visual references for the project
-|
-|---- Hardware/---------# Source design files for the CAD
-|
-|---- BOM.csv-----------# Bill of materials
-|
-|---- LICENSE-----------# MIT License
-|
-|---- README.md---------# Project documentation and instructions
+1] Assets/----> All the images and visual references of the project
+2] Hardware/--> Source design files
+3] BOM.csv----> Bill of materials
+4] LICENSE----> MIT License
+5] README.md --> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
