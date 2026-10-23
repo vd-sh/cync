@@ -8,6 +8,8 @@ Cync is a very basic and simple cable organizer for different sizes of cables, i
 
 <img src="Assets/Screenshot-2026-10-12-215110.png" alt="sample of cync" width="350">
 
+<img src="Assets/Screenshot-2026-10-12-215043.png" alt="2nd sample of cync" width="350">
+
 ## Repository Structure
 ```text
 cync/
@@ -27,8 +29,6 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive and go organize your cables!
 
-   <img src="Assets/Screenshot-2026-10-12-215043.png" alt="2nd sample of cync" width="350">
-
 ## [BOM](BOM.csv) as a table
 | Item          | Description       | Quantity | Price (USD) | Link                             |
 |---------------|-------------------|----------|-------------|----------------------------------|
@@ -39,8 +39,11 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
-3. Color- As you like
+3. Color- White
 4. Infill- (60-90)%
+
+## Build Images
+<img src="Assets/1000086132.jpg" alt="design of cync" width="350">
 
 ## License
 [MIT](LICENSE)- Use, modify, share as you like!
