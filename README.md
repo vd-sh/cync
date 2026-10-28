@@ -44,6 +44,7 @@ Click [here](https://cad.onshape.com/documents/b543ba8c2742f36b66d8b7aa/w/13c482
 
 ## Build Images
 <img src="Assets/1000086132.jpg" alt="design of cync" width="350">
+<img src="Assets/IMG_20261023_155707779.jpg" alt="test of cync" width="350">
 
 ## License
 [MIT](LICENSE)- Use, modify, share as you like!
